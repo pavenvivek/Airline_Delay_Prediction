@@ -1,0 +1,10 @@
+queryid	query
+1	Airports based on delay count
+6	Airports based on cancellation count
+7	Airports based on diverted count
+2	Delay records for all airports
+3	Delay records for all airports based on total cancellations
+4	Delay records for all airports based on total trips
+8	Delay records for all airports based on total delays
+9	Delay records for all airports based on total ontime departure counts
+10	Delay records for all airports based on delay percentage
